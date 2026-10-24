@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sigmaautomotiva.com.br/sitemap.xml
